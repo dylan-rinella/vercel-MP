@@ -42,3 +42,10 @@ code:before,
 code:after {
   content: '\`';
 }
+
+
+.git-profile-container{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
